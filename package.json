@@ -1,6 +1,6 @@
 {
   "name": "nuxt-static",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Nuxt.js module for using markdown files that convert to JSON that can be used to create a static site",
   "license": "MIT",
   "contributors": [
